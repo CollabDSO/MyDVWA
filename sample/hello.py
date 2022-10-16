@@ -1,4 +1,4 @@
 print("Hi")
 print("Hello")
-print("Some")
+print("Something")
 print("Welcome")
