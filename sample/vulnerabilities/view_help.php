@@ -27,7 +27,4 @@ $page[ 'body' ] .= "
 </div>\n";
 
 dvwaHelpHtmlEcho( $page );
-
-
-
 ?>
